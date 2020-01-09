@@ -1,4 +1,4 @@
-# Mock-Survey-Form
+# Mock Survey Form
 
 Using my HTML and CSS knoweldge to make a fake survey form. 
 
